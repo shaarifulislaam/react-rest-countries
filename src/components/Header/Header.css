@@ -1,0 +1,10 @@
+.menu a{
+    text-decoration: none;
+    
+    padding: 15px;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+.menu{
+    margin:30px 40px;
+}
